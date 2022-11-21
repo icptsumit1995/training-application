@@ -1,2 +1,3 @@
 printf("Devops Training")
 
+print("New Line")
